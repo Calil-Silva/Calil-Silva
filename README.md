@@ -5,7 +5,6 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 ## Skills and experience
 
 * ⚛️ React
-* 
 * 💻 HTML, CSS, JS
 
 - 🌱 I’m currently learning Jest and Cypress 
