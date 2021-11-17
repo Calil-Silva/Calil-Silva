@@ -14,5 +14,5 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/calil-renner-silva-33923915a//)  
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calil-Silva&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats"
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact"
 
