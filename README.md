@@ -11,10 +11,10 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 - 🌱 I’m currently learning Jest and Cypress   
 
 
-<div align="center">
+<div display="flex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calil-Silva&show_icons=true&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact&langs_count=16&theme=dracula" />
-  </div>
+</div>
 
 ## Social medias
 
