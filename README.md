@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Calil
 #### Development content
-![Development content](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Calil from Brazil, I'm a JavaScript and Node.js developer and I really enjoy learning new languages and frameworks as well. Generally, I'm working with frameworks like ReactJS and Typescript on front-end and express on back-end. I'm also developing same works with cypress and jest that I'm really enjoying.
 
