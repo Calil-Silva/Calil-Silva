@@ -8,10 +8,7 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 * 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on Full Stack Development 
-- 🌱 I’m currently learning Jest and Cypress 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/calil-renner-silva-33923915a//)  
+- 🌱 I’m currently learning Jest and Cypress   
 
 
 <div align="center">
@@ -19,3 +16,6 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact&langs_count=16&theme=dracula" />
   </div>
 
+## Social medias
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' margin-right='10'>](https://github.com/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Calil-Silva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/calil-renner-silva-33923915a//)
