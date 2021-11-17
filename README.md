@@ -7,6 +7,7 @@ I'm a JavaScript and Node.js developer and I really enjoy learning new languages
 * ⚛️ React
 * 💻 HTML, CSS, JS
 
+- 🔭 I’m currently working on Full Stack Development 
 - 🌱 I’m currently learning Jest and Cypress 
 
 
