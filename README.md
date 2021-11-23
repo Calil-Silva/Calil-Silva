@@ -2,6 +2,11 @@
 
 I'm currently working on Full Stack Development with JavaScript and Node. I really enjoy learning new languages and frameworks as well. Generally, I'm working with frameworks like ReactJS and Typescript on front-end and Node/Express on back-end. I'm also developing some Works with Cypress and jest that I'm really enjoying.
 
+<div align="center">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Calil-Silva&show_icons=true&theme=dracula" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact&langs_count=16&theme=dracula" />
+</div>
+
 ## Skills and experience with front-end developpment:
 
  - <img align="center" alt="Calil-JS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript Vanilla
@@ -15,12 +20,6 @@ I'm currently working on Full Stack Development with JavaScript and Node. I real
  - <img align="center" alt="Calil-Jest" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> Jest
  - <img align="center" alt="Calil-Node" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node
  - <img align="center" alt="Calil-PostgreSQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL 
-
-
-<div align="center">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Calil-Silva&show_icons=true&theme=dracula" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact&langs_count=16&theme=dracula" />
-</div>
 
 ## Find me
 
