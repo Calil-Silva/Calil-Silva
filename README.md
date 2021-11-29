@@ -19,7 +19,8 @@ I'm currently working on Full Stack Development with JavaScript and Node. I real
 ## Skills and experience with back-end developpment:
  - <img align="center" alt="Calil-Jest" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> Jest
  - <img align="center" alt="Calil-Node" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node
- - <img align="center" alt="Calil-PostgreSQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL 
+ - <img align="center" alt="Calil-PostgreSQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL
+ - <img align="center" alt="Calil-PostgreSQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Express
 
 ## Find me
 
