@@ -3,8 +3,8 @@
 I'm currently working on Full Stack Development with JavaScript and Node. I really enjoy learning new languages and frameworks as well. Generally, I'm working with frameworks like ReactJS and Typescript on front-end and Node/Express on back-end. I'm also developing some Works with Cypress and jest that I'm really enjoying.
 
 <div align="center">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Calil-Silva&show_icons=true&theme=dracula" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calil-Silva&layout=compact&langs_count=16&theme=dracula" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=calilrenner&show_icons=true&theme=dracula" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calilrenner&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ## Skills and experience with front-end developpment:
