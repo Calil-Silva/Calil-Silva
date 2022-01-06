@@ -24,4 +24,9 @@ I'm currently working on Full Stack Development with JavaScript and Node. I real
 
 ## Find me
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40em' width='100em'>](https://github.com/Calil-Silva) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40em' width='100em'>](https://www.linkedin.com/in/https://www.linkedin.com/in/calil-renner-silva-33923915a//)
+<div align="center">
+
+  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/calilrenner)](https://github.com/calilrenner)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/calilrenner/)](https://www.linkedin.com/in/calilrenner/)
+  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:calilrs@outlook.com)](mailto:calilrs@outlook.com)
+</div>
